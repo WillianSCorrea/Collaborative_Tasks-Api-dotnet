@@ -1,0 +1,6 @@
+@Collaborative_Tasks_Api_HostAddress = http://localhost:5267
+
+GET {{Collaborative_Tasks_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
