@@ -1,0 +1,9 @@
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.csproj.AssemblyReference.cache
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/rpswa.dswa.cache.json
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.AssemblyInfoInputs.cache
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.AssemblyInfo.cs
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.csproj.CoreCompileInputs.cache
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Collaborative_Tasks-Api-dotnet/Collaborative_Tasks-Api/obj/Debug/net8.0/Collaborative_Tasks-Api.sourcelink.json

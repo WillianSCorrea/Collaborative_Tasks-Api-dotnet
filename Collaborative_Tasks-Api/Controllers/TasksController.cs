@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Collaborative_Tasks.Services;
 using Collaborative_Tasks.DTOs;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using System.Threading.Tasks;
 namespace Collaborative_Tasks.Controllers
